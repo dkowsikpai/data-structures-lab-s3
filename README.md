@@ -15,8 +15,8 @@
     7. Implementation of stack, queue and their applications using linked list.
     8. Representation of polynomials using linked list, addition and multiplication of polynomials.
     9. Implementation of binary trees using linked lists and arrays- creations, insertion, deletion and traversal.
-    10. Implementation of binary search trees – creation, insertion, deletion, search
+    10. Implementation of binary search trees – creation, insertion, deletion, search(Canceled)
     11. Implementation of sorting algorithms – bubble, insertion, selection, quick (recursive and non-recursive), merge sort (recursive and non-recursive), and heap sort
     12. Implementation of hash table using various mapping functions, various collision and overflow resolving schemes
     13. Representation of graphs and computing various parameters (in degree, out degree etc.) - adjacency list, adjacency matrix
-    14. Implementation of BFS, DFS for each representation.
+    14. Implementation of BFS, DFS for each representation.(Canceled)
